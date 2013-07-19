@@ -1,22 +1,21 @@
-
-.jcarousel-control 			{ margin-bottom: 10px; text-align: center; }
+.jcarousel-control 		{ margin-bottom: 10px; text-align: center; }
 .jcarousel-control a 		{ font-size: 75%; text-decoration: none; padding: 0 5px; margin: 0 0 5px 0; border: 1px solid #fff; color: #eee; background-color: #4088b8; font-weight: bold; }
 .jcarousel-control a:focus,
 .jcarousel-control a:active { outline: none; }
 
 
-.jcarousel-skin-tango .jcarousel-container 									{ background: #F0F6F9; border: 1px solid #346F97; }
-.jcarousel-skin-tango .jcarousel-direction-rtl 								{ direction: rtl; }
-.jcarousel-skin-tango .jcarousel-container-horizontal 						{ padding: 20px 40px; }
-.jcarousel-skin-tango .jcarousel-container-vertical 						{ width: 75px; height: 245px; padding: 40px 20px; }
-.jcarousel-skin-tango .jcarousel-clip 										{ overflow: hidden; }
-.jcarousel-skin-tango .jcarousel-clip-horizontal 							{ width:  585px; }
-.jcarousel-skin-tango .jcarousel-clip-vertical 								{ width:  75px; height: 245px; }
-.jcarousel-skin-tango .jcarousel-item 										{ width: 75px; height: 75px; }
-.jcarousel-skin-tango .jcarousel-item-horizontal 							{ margin-left: 0; margin-right: 10px; }
+.jcarousel-skin-tango .jcarousel-container 							{ background: #F0F6F9; border: 1px solid #346F97; }
+.jcarousel-skin-tango .jcarousel-direction-rtl 						{ direction: rtl; }
+.jcarousel-skin-tango .jcarousel-container-horizontal 				{ padding: 20px 40px; }
+.jcarousel-skin-tango .jcarousel-container-vertical 				{ width: 75px; height: 245px; padding: 40px 20px; }
+.jcarousel-skin-tango .jcarousel-clip 								{ overflow: hidden; }
+.jcarousel-skin-tango .jcarousel-clip-horizontal 					{ width:  585px; }
+.jcarousel-skin-tango .jcarousel-clip-vertical 						{ width:  75px; height: 245px; }
+.jcarousel-skin-tango .jcarousel-item 								{ width: 75px; height: 75px; }
+.jcarousel-skin-tango .jcarousel-item-horizontal 					{ margin-left: 0; margin-right: 10px; }
 .jcarousel-skin-tango .jcarousel-direction-rtl .jcarousel-item-horizontal 	{ margin-left: 10px; margin-right: 0; }
-.jcarousel-skin-tango .jcarousel-item-vertical 								{ margin-bottom: 10px; }
-.jcarousel-skin-tango .jcarousel-item-placeholder 							{ background: #fff; color: #000; }
+.jcarousel-skin-tango .jcarousel-item-vertical 						{ margin-bottom: 10px; }
+.jcarousel-skin-tango .jcarousel-item-placeholder 					{ background: #fff; color: #000; }
 
 /** Horizontal Buttons **/
 
